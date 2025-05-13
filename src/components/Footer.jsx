@@ -34,7 +34,7 @@ const Footer = () => {
           {/* 2nd column */}
           <div className="footer-subscribe">
             <h3>Subscribe to get important updates</h3>
-            <a id="mail" href="mailto:adarshpandey0028@gmail.com">Mail Us</a>
+            <a id="mail" href="mailto:harshuu1222@gmail.com">Mail Us</a>
           </div>
 
           {/* 3rs column  */}
