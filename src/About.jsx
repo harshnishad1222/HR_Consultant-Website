@@ -25,7 +25,7 @@ const About = () => {
     </div>
     <div className="section-hero-image">
           <picture>
-          <img src="./public/images/about1.gif" alt="hero image" className="hero-img " />
+          <img src="https://github.com/harshnishad1222/HR_Consultant-Website/blob/main/public/images/about1.gif?raw=true" alt="hero image" className="hero-img " />
           </picture>
         </div>
     {/* for image  */}
