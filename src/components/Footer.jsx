@@ -15,9 +15,10 @@ const Footer = () => {
           </div>
 
           <div className="contact-short-btn">
-            <NavLink to="/">
-              <Button>Get Started</Button>
+              <Button>
+            <NavLink to="/contact">Get Started
             </NavLink>
+              </Button>
           </div>
         </div>
       </section>
