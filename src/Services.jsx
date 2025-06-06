@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Services = () => {
   return (
     <Wrapper className="section">
-      <h2 className="common-heading">C2GROW’S STAFFING SERVICES</h2>
+      <h2 className="common-heading"> Latest job openings - check them out!</h2>
 
       <div className="ag-format-container">
         <div className="ag-courses_box">
