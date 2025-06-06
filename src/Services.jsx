@@ -9,13 +9,13 @@ const Services = () => {
       <div className="ag-format-container">
         <div className="ag-courses_box">
           {[
-            "Temporary/Contractual Staffing",
-            "Permanent Staffing",
-            "On-boarding",
-            "Documentation",
-            "Payroll Management",
-            "Legal & Statutory Compliance Audit",
-            "Grievance Management",
+            "Front-end Developer",
+            "React.js Developer",
+            "Testing Engineers",
+            "Web developer",
+            "Sales Engineer",
+            "Software Engineer",
+            "Team Management",
           ].map((title, index) => (
             <div className="ag-courses_item" key={index}>
               <a href="#" className="ag-courses-item_link">
