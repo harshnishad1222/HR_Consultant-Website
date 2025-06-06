@@ -10,7 +10,7 @@ const Navbar = () => {
     <Nav>
       <div className={openMenu ? "menuIcon active" : "menuIcon"}>
         <ul className="navbar-list">
-          {["Home", "About", "Jobs", "Contact"].map((label, index) => (
+          {["Home", "About", "Services", "Contact"].map((label, index) => (
             <li key={index}>
               <NavLink
                 className="navbar-link"
